@@ -1,0 +1,29 @@
+@use '@picocss/pico/scss';
+
+.clean-link {
+  text-decoration: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.fl-wrap {
+  flex-wrap: wrap;
+}
+
+.fl-gap-10 {
+  gap: 10px;
+}
+
+.fl-gap-20 {
+  gap: 20px;
+}
+
+.fl-gap-30 {
+  gap: 30px;
+}
+
+.fl-space-between {
+  justify-content: space-between;
+}
